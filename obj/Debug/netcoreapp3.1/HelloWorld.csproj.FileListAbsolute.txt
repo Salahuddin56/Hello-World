@@ -1,0 +1,13 @@
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+F:\Varsity\6th Semester\OOP2\Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
